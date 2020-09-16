@@ -30,6 +30,24 @@ li {
 }
 
 .footer {
-  background-color: #ceccf3;
-  height: 270px;
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  Padding: 40px;
+}
+
+/* Gantikan font-size dan property float footer-logo */
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+/* Gantikan float property footer-list */
+.footer-list {
+  float: right;
+}
+
+/* Tambahkan CSS untuk tag <li> kedalam footer-list */
+.footer-list li {
+  padding-bottom: 20px;
 }
