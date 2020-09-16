@@ -4,9 +4,6 @@ body {
 
 li {
   list-style: none;
-  /* Pindahkan kedua baris dibawah kesekitar baris 25 */
-  float: left;
-  padding: 33px 20px;
 }
 
 .header {
