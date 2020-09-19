@@ -18,8 +18,7 @@ li {
   padding: 20px 40px;
 }
 
-/* Tambahkan CSS tag <li> yang diatas kedalam header-list */
-.header-list li{
+.header-list li {
   float: left;
   padding: 33px 20px;
 }
@@ -28,17 +27,14 @@ li {
   padding: 100px 80px;
 }
 
-/* Gantikan font-size tag <h1> didalam copy-container */
 .copy-container h1 {
   font-size: 140px;
 }
 
-/* Gantikan font-size tag <h2> didalam copy-container */
 .copy-container h2 {
   font-size: 60px;
 }
 
-/* Gantikan color tags <span> didalam copy-container */
 .copy-container span {
   color: #ff4a4a;
 }
@@ -62,21 +58,18 @@ li {
   background-color: #2f5167;
   color: #fff;
   height: 120px;
-  Padding: 40px;
+  padding: 40px;
 }
 
-/* Gantikan font-size dan property float footer-logo */
 .footer-logo {
   float: left;
   font-size: 32px;
 }
 
-/* Gantikan float property footer-list */
 .footer-list {
   float: right;
 }
 
-/* Tambahkan CSS untuk tag <li> kedalam footer-list */
 .footer-list li {
   padding-bottom: 20px;
 }
