@@ -25,8 +25,22 @@ li {
 }
 
 .main {
-  background-color: #bdf7f1;
-  height: 600px;
+  padding: 100px 80px;
+}
+
+/* Gantikan font-size tag <h1> didalam copy-container */
+.copy-container h1 {
+  font-size: 140px;
+}
+
+/* Gantikan font-size tag <h2> didalam copy-container */
+.copy-container h2 {
+  font-size: 60px;
+}
+
+/* Gantikan color tags <span> didalam copy-container */
+.copy-container span {
+  color: #ff4a4a;
 }
 
 .footer {
