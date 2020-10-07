@@ -1,5 +1,5 @@
 body {
-  font-family: "Didot";
+  font-family: "Comic Sans";
 }
 
 li {
@@ -7,8 +7,8 @@ li {
 }
 
 .header {
-  background-color: #00BFFF;
-  color: #fff;
+  background-color: #696969;
+  color: #FFFAF0;
   height: 90px;
 }
 
