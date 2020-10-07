@@ -28,7 +28,8 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 90px;
+  font-size: 100px;
+  color: #00BFFF;
 }
 
 .copy-container h2 {
@@ -82,8 +83,8 @@ input, textarea {
 }
 
 .footer {
-  background-color: #00BFFF;
-  color: #fff;
+  background-color: #696969;
+  color: #FFFAF0;
   height: 120px;
   padding: 40px;
 }
