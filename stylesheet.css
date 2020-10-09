@@ -9,12 +9,11 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/img1.jpg");
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
   text-align: center;
 }
-
 
 .container {
   width: 1170px;
@@ -34,6 +33,42 @@ a {
   margin-bottom: 3px;
 }
 
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
 
 header {
   height: 65px;
@@ -70,64 +105,79 @@ header {
   display: block;
 }
 
-.contents {
+.lesson-wrapper {
   height: 500px;
-  margin-top: 100px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
 }
 
-.section-title {
-  border-bottom: 2px solid #dee7ec;
-  font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 50px;
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
 }
 
-.contents-item {
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
   float: left;
-  margin-right: 40px;
+  width: 25%;
 }
 
-.contents-item p {
-  font-size: 24px;
-  margin-top: 30px;
+.lesson-icon {
+  position: relative;
 }
 
-.contact-form {
-  padding-top: 100px;
+.lesson-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
 }
 
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
-input, textarea {
-  width: 400px;
-  margin-top: 10px;
-  margin-bottom: 30px;
-  padding: 20px;
-  font-size: 18px;
-  border: 1px solid #dee7ec;
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
 }
 
-/* Tambahkan CSS untuk contact-submit */
-.contact-submit {
-  background-color: #dee7ec;
-  color: #889eab;
+.heading h3 {
+  font-weight: normal;
 }
 
-.footer {
-  background-color: #696969;
-  color: #FFFAF0;
-  height: 120px;
-  padding: 40px;
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
 }
 
-.footer-logo {
-  float: left;
-  font-size: 32px;
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
 }
 
-.footer-list {
-  float: right;
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
 }
 
-.footer-list li {
-  padding-bottom: 20px;
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
 }
