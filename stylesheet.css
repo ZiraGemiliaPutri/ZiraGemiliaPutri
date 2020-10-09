@@ -9,7 +9,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/img1.png");
+  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/img1.png") width= "1024" height="576";
   background-size: cover;
   color: white;
   text-align: center;
