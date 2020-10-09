@@ -9,7 +9,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/img2.jpg");
+  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/img1.jpg");
   background-size: cover;
   color: white;
   text-align: center;
@@ -68,12 +68,6 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
-}
-
-.heading {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  color: #5f5d60;
 }
 
 .contents {
