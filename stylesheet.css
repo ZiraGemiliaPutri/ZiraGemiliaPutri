@@ -9,7 +9,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/imgbg.png)";
+  background-image: url(https://raw.githubusercontent.com/ZiraGemiliaPutri/ZiraGemiliaPutri/master/imgbg.png);
+  background-size: cover;
   color: white;
   text-align: center;
 }
